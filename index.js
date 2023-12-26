@@ -1,3 +1,5 @@
-const i = 15 - 2
+const i = 15 
+  - 2
 
-console.log(i)
+console.log(
+  i)
